@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+<cliente>
+<dni>70708080q</dni>
+<nombreComple>Celia Serna Lopez</nombreComple>
+<fechaNaci>15-09-1990</fechaNaci>
+<saldo>10000</saldo>
+</cliente>
+<cliente>
+<dni>70708080q</dni>
+<nombreComple>Celia Serna Lopez</nombreComple>
+<fechaNaci>15-09-1990</fechaNaci>
+<saldo>10000</saldo>
+</cliente>
+</clientes>

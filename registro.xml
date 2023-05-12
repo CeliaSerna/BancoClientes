@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente>
+        <dni>70584840w</dni>
+        <nombreComple>Celia Serna Lopez</nombreComple>
+        <fechaNaci>15-09-1990</fechaNaci>
+        <saldo>200.0</saldo>
+    </cliente>
+    <cliente>
+        <dni>06554433y</dni>
+        <nombreComple>Silvia Serna Lopez</nombreComple>
+        <fechaNaci>04-03-1979</fechaNaci>
+        <saldo>300.0</saldo>
+    </cliente>
+    <cliente>
+        <dni>06553322k</dni>
+        <nombreComple>Alicia Serna Lopez</nombreComple>
+        <fechaNaci>17-06-1977</fechaNaci>
+        <saldo>500.0</saldo>
+    </cliente>
+    <cliente>
+        <dni>70709090p</dni>
+        <nombreComple>Maria Buitrago Olivares</nombreComple>
+        <fechaNaci>30-11-1990</fechaNaci>
+        <saldo>100.0</saldo>
+    </cliente>
+    <cliente>
+        <dni>78788787q</dni>
+        <nombreComple>Irene Garcia Toribio</nombreComple>
+        <fechaNaci>30-11-1988</fechaNaci>
+        <saldo>4000.0</saldo>
+    </cliente>
+</clientes>
